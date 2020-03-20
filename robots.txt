@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohsounohfa.deutsche-tastatur.de/sitemap.xml
